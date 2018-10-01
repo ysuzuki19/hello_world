@@ -2,7 +2,17 @@ github is very complex!!
 
 ======how to use github==============================================
 
-------get repository from remote repository--------------------------
+
+
+
+
+
+
+
+====================================================================
+
+--------------------------------------------------------------------
+get repository from remote repository
 
 $ git clone https://github.com/[username]/[repositoryname]
 
