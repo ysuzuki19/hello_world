@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------
-how to use github
+How to use github
 ---------------------------------------------------------------------
 1 get repository from remote to local
 
@@ -17,7 +17,7 @@ how to use github
 
 	$ git push -u origin master
 ---------------------------------------------------------------------
-command list
+Command list
 ---------------------------------------------------------------------
 
 get repository from remote repository
