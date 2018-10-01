@@ -5,11 +5,22 @@ github is very complex!!
 ------get repository from remote repository--------------------------
 git clone https://github.com/[username]/[repositoryname]
 
+------make new git repository----------------------------------------
+git init
 
-git push origin master
-git checout master
-git merge bug-fix
-git checkout master
-git commit -m "add new file"
+------add information of file change---------------------------------
 git add README.md
-git pull origin master
+
+------commit to local repository of changed data---------------------
+git commit -m "README.md"
+
+------check file additionning----------------------------------------
+git status
+
+------add information of local repository----------------------------
+git remote add origin https://github.com/[username]/[repositoryname]
+
+------push repository from local to remote---------------------------
+git push origin master
+
+=====================================================================
