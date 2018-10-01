@@ -1,9 +1,6 @@
 ---------------------------------------------------------------------
 how to use github
 ---------------------------------------------------------------------
-
-basic
-
 1 get repository from remote to local
 
 	$ git clone https://github.com/[username]/[repositoryname]
@@ -19,9 +16,6 @@ basic
 4 push origin from local to remote
 
 	$ git push -u origin master
-
-
-
 ---------------------------------------------------------------------
 command list
 ---------------------------------------------------------------------
